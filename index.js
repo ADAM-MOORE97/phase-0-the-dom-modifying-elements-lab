@@ -5,3 +5,4 @@ newHeader.setAttribute("id", "victory");
 
 newHeader.innerHTML = "ADAM is the champion";
 document.body.append(newHeader);
+
